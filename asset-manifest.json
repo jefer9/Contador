@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contador/static/css/main.8906dafd.css",
+    "main.js": "/Contador/static/js/main.01939a99.js",
+    "index.html": "/Contador/index.html",
+    "main.8906dafd.css.map": "/Contador/static/css/main.8906dafd.css.map",
+    "main.01939a99.js.map": "/Contador/static/js/main.01939a99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8906dafd.css",
+    "static/js/main.01939a99.js"
+  ]
+}
